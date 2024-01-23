@@ -1,0 +1,10 @@
+.haiya{
+   
+    padding: 10px 25px 10px 25px;
+    background-color: hsl(183, 100%, 15%);
+    color: white;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: none;
+    width: 100px;
+}
